@@ -8,8 +8,6 @@ Allows you to toggle the display of all errors, warnings, and notices in the Wor
 2. When you click the 'Toggle Admin Notices', it will hide all of the notices on the current page.
 3. When you click on the menu item again, it will display all of the options.
 
-***Note***: *The final version of the plugin will allow you to persist your setting across page requests.*
-
 ## Installation
 
 ### Using The WordPress Dashboard
