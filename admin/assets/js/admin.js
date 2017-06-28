@@ -3,10 +3,10 @@
  *
  * @package TAN\Admin\JS
  */
-(function( $ ) {
+( function( $ ) {
 	'use strict';
 
-	$(function() {
+	$( function() {
 
 		// Go ahead and setup references to the plugin menu item and all admin notices.
 		var $admin_button = $( '#wp-admin-bar-toggle-admin-notices a' ),
@@ -45,5 +45,5 @@
 		if ( 'hide' === currentState ) {
 			$messages.hide();
 		}
-	});
-})( jQuery );
+	} );
+} )( jQuery );
