@@ -30,3 +30,4 @@ For information about changes related to the project, be sure to review the [Cha
 ## Contributors
 
 * Originally started by [Tom McFarlin](https://twitter.com/tommfarlin).
+* Permanent setting added by [Primoz Cigler](https://twitter.com/primozcigler) from [ProteusThemes](https://www.proteusthemes.com/).
